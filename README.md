@@ -8,6 +8,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-agrawal-217193322)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth8619agrawal@gmail.com)
 
+<br>
+
+![Followers](https://img.shields.io/github/followers/ParthAgarwal8619?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/ParthAgarwal8619?label=Stars&style=social)
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FParthAgarwal8619)
+
 </div>
 
 <br>
