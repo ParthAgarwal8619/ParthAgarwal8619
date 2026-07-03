@@ -25,13 +25,13 @@ Student at GLA University | Based in India
 <td width="50%">
 
 ### Commits
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ParthAgarwal8619&theme=react&hide_border=true" alt="commits" />
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=ParthAgarwal8619&theme=react&hide_border=true" alt="commits" />
 
 </td>
 <td width="50%">
 
 ### Top Languages by Repo
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthAgarwal8619&layout=donut&theme=react&hide_border=true" alt="top languages by repo" />
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ParthAgarwal8619&layout=donut&theme=react&hide_border=true" alt="top languages by repo" />
 
 </td>
 </tr>
@@ -39,13 +39,13 @@ Student at GLA University | Based in India
 <td width="50%">
 
 ### Stats
-<img width="100%" src="https://github-readme-stats.vercel.app/api/?username=ParthAgarwal8619&show_icons=true&theme=react&hide_border=true" alt="stats" />
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/?username=ParthAgarwal8619&show_icons=true&theme=react&hide_border=true" alt="stats" />
 
 </td>
 <td width="50%">
 
 ### Top Languages by Commit
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthAgarwal8619&layout=compact&theme=react&hide_border=true" alt="top languages by commit" />
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ParthAgarwal8619&layout=compact&theme=react&hide_border=true" alt="top languages by commit" />
 
 </td>
 </tr>
@@ -90,5 +90,5 @@ Student at GLA University | Based in India
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParthAgarwal8619&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ParthAgarwal8619&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
