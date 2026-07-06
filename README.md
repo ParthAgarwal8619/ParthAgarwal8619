@@ -125,17 +125,13 @@ NLP system that classifies & prioritizes support emails
 
 <br>
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=ParthAgarwal8619&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Parth's GitHub Stats" />
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ParthAgarwal8619&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthAgarwal8619&theme=react&hide_border=true" alt="GitHub Streak" />
-
+<img width="100%" src="https://streak-stats.demolab.com/?user=ParthAgarwal8619&theme=react&hide_border=true" alt="GitHub Streak" />
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
 </div>
 
 <br>
