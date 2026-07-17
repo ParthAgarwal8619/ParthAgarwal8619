@@ -125,6 +125,7 @@ Tech Stack
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-05122A?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<br>
 
 📊 GitHub Analytics
 
