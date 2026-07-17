@@ -1,4 +1,27 @@
 <div align="center">
+Parth Agrawal
+
+Software Developer | AI/ML Developer
+
+Show Image
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+<br>
+Show Image
+Show Image
+Show Image
+
+<br>
+Show Image
+Show Image
+Show Image
+
+</div>
+<br>
+
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Parth+Agrawal;Software+Developer+%7C+Python+%2F+Java;Building+real-world+projects+with+AI+%26+ML;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -83,10 +106,9 @@ NLP system that classifies & prioritizes support emails
 
 <br>
 
-Tech Stack
+## 💻 Tech Stack
 
 **Languages**
-
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -102,7 +124,6 @@ Tech Stack
 ![Jinja](https://img.shields.io/badge/-Jinja-05122A?style=for-the-badge&logo=jinja&logoColor=B41717)
 
 **Data, ML & Tools**
-
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas&logoColor=150458)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
@@ -126,7 +147,6 @@ Tech Stack
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>
-
 📊 GitHub Analytics
 
 <div align="center">
