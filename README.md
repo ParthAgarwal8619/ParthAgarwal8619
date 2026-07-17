@@ -1,6 +1,4 @@
 <div align="center">
-  
-<img width="854" height="220" alt="image" src="https://github.com/user-attachments/assets/65e03174-3c4e-4c5e-9785-e53c52860512" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Parth+Agrawal;Software+Developer+%7C+Python+%2F+Java;Building+real-world+projects+with+AI+%26+ML;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -19,8 +17,6 @@
 </div>
 
 <br>
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c39eb674-9b54-4aef-833b-bdc7569953db" />
 
 ## 🚀 About Me
 
@@ -159,11 +155,5 @@ NLP system that classifies & prioritizes support emails
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ParthAgarwal8619&color=blue&style=flat-square)
-
-<img width="860" height="230" alt="image" src="https://github.com/user-attachments/assets/dd7c7f5d-59e1-4518-aee5-5b99cf95896d" />
-
-<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/cf310133-a37d-46ef-ad13-dcede6ab9aad" />
-
-
 
 </div>
