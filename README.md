@@ -251,7 +251,6 @@ NLP-based system for classifying and prioritizing customer support emails.
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <a href="https://github.com/ParthAgarwal8619">
     <img
       width="49%"
@@ -260,7 +259,6 @@ NLP-based system for classifying and prioritizing customer support emails.
     />
   </a>
 
-  <!-- Top Languages -->
   <a href="https://github.com/ParthAgarwal8619">
     <img
       width="49%"
@@ -269,9 +267,8 @@ NLP-based system for classifying and prioritizing customer support emails.
     />
   </a>
 
-  <br/><br/>
+  <br><br>
 
-  <!-- Streak -->
   <a href="https://github.com/ParthAgarwal8619">
     <img
       width="95%"
@@ -280,18 +277,17 @@ NLP-based system for classifying and prioritizing customer support emails.
     />
   </a>
 
-  <br/><br/>
+  <br><br>
 
-  <!-- Activity Graph -->
-  <a href="https://github.com/ParthAgarwal8619">
-    <img
-      width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true&custom_title=Parth%20Agarwal%27s%20Contribution%20Graph"
-      alt="GitHub Activity Graph"
-    />
-  </a>
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true&custom_title=Parth%20Agarwal%27s%20Contribution%20Graph"
+    alt="Parth Agarwal Contribution Graph"
+  />
 
 </div>
+
+---
 
 ---
 
@@ -299,7 +295,23 @@ NLP-based system for classifying and prioritizing customer support emails.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</picture>
 
 </div>
 
