@@ -6,8 +6,10 @@ on:
   push:
     paths:
       - ".github/workflows/github-analytics.yml"
+
 permissions:
   contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
