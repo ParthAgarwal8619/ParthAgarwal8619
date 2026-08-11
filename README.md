@@ -71,7 +71,7 @@ Currently, I'm focused on improving my software engineering skills while explori
 
 ### ⚡ Quick Facts
 
-text
+```text
 🎓 GLA University
 📍 India
 
@@ -85,7 +85,10 @@ text
 
 📚 Always Learning
 🚀 Always Building
-</td> </tr> </table>
+```
+</td>
+</tr>
+</table>
 
 # 🚀 Featured Projects
 
@@ -254,7 +257,7 @@ NLP-based system for classifying and prioritizing customer support emails.
 <a href="https://github.com/ParthAgarwal8619">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ParthAgarwal8619&show_icons=true&theme=react&hide_border=true&include_all_commits=true"
+    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/main/profile/stats.svg"
     alt="GitHub Stats"
   />
 </a>
@@ -262,7 +265,7 @@ NLP-based system for classifying and prioritizing customer support emails.
 <a href="https://github.com/ParthAgarwal8619">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthAgarwal8619&layout=compact&theme=react&hide_border=true&langs_count=6"
+    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/main/profile/top-langs.svg"
     alt="Most Used Languages"
   />
 </a>
@@ -272,7 +275,7 @@ NLP-based system for classifying and prioritizing customer support emails.
 <a href="https://github.com/ParthAgarwal8619">
   <img
     width="95%"
-    src="https://streak-stats.demolab.com/?user=ParthAgarwal8619&theme=react&hide_border=true"
+    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/main/profile/streak.svg"
     alt="GitHub Streak"
   />
 </a>
@@ -385,7 +388,13 @@ Every project is an opportunity to understand something deeper, experiment with 
 
 </div>
 
-</div> <br> <!-- ========================================================= --> <!-- FOOTER SECTION --> <!-- ========================================================= --> <div align="center">
+</div>
+<br>
+
+<!-- ========================================================= -->
+<!--                       FOOTER SECTION                       -->
+<!-- ========================================================= -->
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,30:172554,60:111827,100:050A12&height=120&section=footer" width="100%" alt="Footer" />
 
