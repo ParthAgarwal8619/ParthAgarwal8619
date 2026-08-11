@@ -251,39 +251,39 @@ NLP-based system for classifying and prioritizing customer support emails.
 
 <div align="center">
 
-  <a href="https://github.com/ParthAgarwal8619">
-    <img
-      width="49%"
-      src="./profile/stats.svg"
-      alt="Parth Agarwal GitHub Stats"
-    />
-  </a>
+<a href="https://github.com/ParthAgarwal8619">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ParthAgarwal8619&show_icons=true&theme=react&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+</a>
 
-  <a href="https://github.com/ParthAgarwal8619">
-    <img
-      width="49%"
-      src="./profile/top-langs.svg"
-      alt="Most Used Languages"
-    />
-  </a>
+<a href="https://github.com/ParthAgarwal8619">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthAgarwal8619&layout=compact&theme=react&hide_border=true&langs_count=6"
+    alt="Most Used Languages"
+  />
+</a>
 
-  <br><br>
+<br><br>
 
-  <a href="https://github.com/ParthAgarwal8619">
-    <img
-      width="95%"
-      src="./profile/streak.svg"
-      alt="GitHub Streak"
-    />
-  </a>
-
-  <br><br>
-
+<a href="https://github.com/ParthAgarwal8619">
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true&custom_title=Parth%20Agarwal%27s%20Contribution%20Graph"
-    alt="Parth Agarwal Contribution Graph"
+    src="https://streak-stats.demolab.com/?user=ParthAgarwal8619&theme=react&hide_border=true"
+    alt="GitHub Streak"
   />
+</a>
+
+<br><br>
+
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true"
+  alt="Contribution Graph"
+/>
 
 </div>
 
@@ -307,10 +307,11 @@ NLP-based system for classifying and prioritizing customer support emails.
   />
 
   <img
+    width="95%"
     src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/output/github-snake.svg"
     alt="GitHub Contribution Snake"
-    width="95%"
   />
+
 </picture>
 
 </div>
