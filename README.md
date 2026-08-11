@@ -21,14 +21,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Parth Agrawal
-
-### 💻 Software Developer · 🤖 AI/ML Enthusiast · 🚀 Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+Backend+Development;Building+AI%2FML+Projects;Turning+Ideas+Into+Real+Products;Always+Learning.+Always+Shipping.+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
 <a href="https://portfolio2-4rw9.onrender.com">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -51,7 +43,7 @@
 
 ## 🧑‍💻 About Me
 
-```text
+
 🎓  Student @ GLA University, India
 💻  Software Developer
 🐍  Python & Java Developer
@@ -59,7 +51,7 @@
 ⚙️  Backend & API Development
 🚀  Building real-world projects
 📚  Learning → Building → Deploying → Repeating
-```
+
 
 I'm passionate about building **practical software that solves real problems**.
 
