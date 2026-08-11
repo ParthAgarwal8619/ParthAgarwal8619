@@ -1,159 +1,446 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Parth+Agrawal;Software+Developer+%7C+Python+%2F+Java;Building+real-world+projects+with+AI+%26+ML;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://capsule-render.vercel.app/">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0620,35:24105C,70:4C1D95,100:6366F1&height=220&section=header&text=YOUR%20NAME&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Product%20Builder&descAlignY=58&descSize=18&descColor=C4B5FD" />
+</a>
 
-<br>
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+scalable+software+systems;Engineering+AI-powered+products;Designing+reliable+distributed+architectures;Turning+complex+problems+into+elegant+solutions;Always+learning.+Always+shipping." alt="Typing SVG" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2-4rw9.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-agrawal-217193322)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth8619agrawal@gmail.com)
+<br/>
 
-<br>
+<img src="https://img.shields.io/badge/B.Tech%20%2F%20M.Tech-Engineering-7C3AED?style=for-the-badge&labelColor=0D0620" />
+<img src="https://img.shields.io/badge/Computer%20Science-Software%20Engineering-6366F1?style=for-the-badge&labelColor=0D0620" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Specialization-A78BFA?style=for-the-badge&labelColor=0D0620" />
+<img src="https://img.shields.io/badge/Location-India-4F46E5?style=for-the-badge&labelColor=0D0620" />
 
-![Followers](https://img.shields.io/github/followers/ParthAgarwal8619?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/ParthAgarwal8619?label=Stars&style=social)
-![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FParthAgarwal8619)
+<br/><br/>
+
+<a href="https://your-portfolio.example.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" />
+</a>
+<a href="https://www.linkedin.com/in/yourusername/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6366F1&labelColor=111827&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=A78BFA&labelColor=111827&label=STARS" />
 
 </div>
 
-<br>
+---
 
-## 🚀 About Me
-
-- 🎓 Student at **GLA University**, India
-- 💻 Software Developer working with **Python, Java, Django, Flask, FastAPI**
-- 🤖 Currently building AI/ML-driven real-world projects — resume analyzers, computer-vision games, and autonomous agents
-- 🌱 Learning something new and shipping code every single day
-- 📫 Reach me at **parth8619agrawal@gmail.com**
-
-<br>
-
-## 🛠️ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[🧠 AI Resume Analyzer](https://github.com/ParthAgarwal8619/Ai-resume-analyzer)**
-AI-powered tool that parses and scores resumes
-`Python`
-
-</td>
-<td width="50%" valign="top">
-
-**[🎮 Hillclimb CV Game Project](https://github.com/ParthAgarwal8619/hillclimb-cv-game-project)**
-Computer-vision controlled hill-climb style game
-`Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🧬 LifeOS Agent](https://github.com/ParthAgarwal8619/lifeos-agent)**
-Personal AI agent for daily productivity automation
-`Python`
-
-</td>
-<td width="50%" valign="top">
-
-**[🌐 Portfolio Website](https://github.com/ParthAgarwal8619/portfolio1)**
-Personal developer portfolio, live on Render
-`HTML`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[✍️ PyTorch Digit Recognition](https://github.com/ParthAgarwal8619/pytorch-digitproject)**
-Handwritten digit classifier built with PyTorch
-`Python`
-
-</td>
-<td width="50%" valign="top">
-
-**[📧 Customer Service Email Intelligence](https://github.com/shravan-bali/Customer-Service-Email-Intelligence-System)**
-NLP system that classifies & prioritizes support emails
-`Python`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 💻 Tech Stack
-
-**Languages**
-![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**Frameworks & Backend**
-![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![Jinja](https://img.shields.io/badge/-Jinja-05122A?style=for-the-badge&logo=jinja&logoColor=B41717)
-
-**Data, ML & Tools**
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas&logoColor=150458)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=for-the-badge&logo=scipy&logoColor=8CAAE6)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=for-the-badge&logo=power-bi&logoColor=F2C811)
-
-**Databases & Cloud**
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4)
-![Render](https://img.shields.io/badge/-Render-05122A?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=for-the-badge&logo=apache-airflow&logoColor=017CEE)
-
-**Dev Tools**
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-05122A?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<br>
-📊 GitHub Analytics
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=ParthAgarwal8619&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Parth's GitHub Stats" />
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ParthAgarwal8619&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ParthAgarwal8619&theme=react&hide_border=true" alt="GitHub Streak" />
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-<br>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark"/>
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO"/>
-<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw"/>
-</div>
-
-<br>
+# About
 
 <div align="center">
 
-### 💬 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio2-4rw9.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-agrawal-217193322)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parth8619agrawal@gmail.com)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ParthAgarwal8619&color=blue&style=flat-square)
+### Senior Software Engineer • AI/ML Engineer • Product Builder
 
 </div>
+
+I am a software engineer focused on designing, building, and scaling **production-grade software systems** that solve meaningful business and user problems.
+
+My engineering approach combines strong fundamentals in **software architecture, algorithms, distributed systems, AI/ML, full-stack development, cloud infrastructure, and product engineering**.
+
+I enjoy working across the entire engineering lifecycle — from defining technical requirements and designing scalable architectures to implementing APIs, building intelligent systems, optimizing performance, deploying infrastructure, and continuously improving products through measurable feedback.
+
+My core interests include:
+
+- **Software Engineering** — scalable architectures, distributed systems, APIs, system design, clean code, testing, and reliability
+- **AI / ML Engineering** — machine learning, deep learning, NLP, generative AI, LLM applications, RAG, embeddings, and intelligent automation
+- **Full-Stack Development** — modern frontend systems, backend services, databases, APIs, and end-to-end product development
+- **Cloud & DevOps** — containerization, CI/CD, observability, infrastructure automation, deployment, and production reliability
+- **Product Engineering** — translating ambiguous requirements into simple, scalable, measurable products
+- **Engineering Excellence** — performance optimization, security, maintainability, developer experience, and technical documentation
+
+### Open To
+
+`Software Engineering` · `AI/ML Engineering` · `Backend Engineering` · `Full-Stack Engineering` · `Product Engineering` · `Open Source` · `Research & Development`
+
+---
+
+# Tech Stack
+
+## Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,go,rust,kotlin,bash,sql&theme=dark" />
+
+</div>
+
+## Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,redux,vite&theme=dark" />
+
+</div>
+
+## Backend & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,postgres,mysql,mongodb,redis,kafka,rabbitmq&theme=dark" />
+
+</div>
+
+## Cloud, DevOps & Tooling
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,git,linux,nginx,prometheus,grafana&theme=dark" />
+
+</div>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Machine Learning | Advanced | Supervised learning, unsupervised learning, feature engineering, model evaluation, optimization |
+| Deep Learning | Advanced | Neural networks, CNNs, RNNs, Transformers, transfer learning, model optimization |
+| Generative AI | Advanced | LLM applications, prompt engineering, RAG, embeddings, vector search, agentic workflows |
+| Natural Language Processing | Advanced | Text classification, semantic search, information extraction, embeddings, language models |
+| Computer Vision | Intermediate–Advanced | Image classification, object detection, image embeddings, preprocessing, model deployment |
+| MLOps | Advanced | Experiment tracking, model serving, monitoring, CI/CD, reproducibility, production pipelines |
+| AI Systems | Advanced | AI APIs, inference services, scalable pipelines, caching, observability, evaluation frameworks |
+| Data Engineering | Advanced | ETL/ELT pipelines, data processing, distributed systems, data quality, analytics infrastructure |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><strong>⚡ AI Platform & Intelligent Automation System</strong></summary>
+
+<br/>
+
+A production-oriented AI platform designed to automate complex workflows using modern machine learning and generative AI architectures.
+
+| Metric | Engineering Profile |
+|:---|:---|
+| **Stack** | Python · FastAPI · React · PostgreSQL · Redis · Docker · AWS · LLM APIs |
+| **Scale** | Designed for horizontally scalable workloads and concurrent AI requests |
+| **Performance** | Async APIs · caching · batching · optimized inference workflows |
+| **Security** | Authentication · authorization · encrypted secrets · API validation · auditability |
+| **Impact** | Reduced repetitive workflows and improved operational efficiency |
+| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/ai-platform) |
+
+### Engineering Scope
+
+- Designed modular AI service architecture for independent scaling.
+- Implemented asynchronous API workflows for high-concurrency workloads.
+- Integrated retrieval-augmented generation pipelines.
+- Added semantic search using vector embeddings.
+- Implemented caching and request optimization.
+- Built observability around latency, errors, throughput, and model behavior.
+- Containerized services for reproducible deployments.
+- Designed interfaces between AI services and product-facing APIs.
+
+**Core Technologies:** `Python` `FastAPI` `LLMs` `RAG` `Embeddings` `PostgreSQL` `Redis` `Docker` `AWS`
+
+</details>
+
+<details>
+<summary><strong>🚀 Scalable Full-Stack SaaS Platform</strong></summary>
+
+<br/>
+
+A modern SaaS platform engineered around scalable backend services, responsive user experiences, secure authentication, and production-ready infrastructure.
+
+| Metric | Engineering Profile |
+|:---|:---|
+| **Stack** | TypeScript · Next.js · Node.js · PostgreSQL · Redis · Docker · AWS |
+| **Scale** | Modular architecture designed for horizontal scaling |
+| **Performance** | Server-side rendering · caching · optimized database queries |
+| **Security** | RBAC · secure sessions · input validation · rate limiting |
+| **Impact** | Delivered an end-to-end platform architecture suitable for production growth |
+| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/scalable-saas-platform) |
+
+### Engineering Scope
+
+- Designed frontend and backend architecture.
+- Built RESTful APIs and service abstractions.
+- Implemented authentication and role-based authorization.
+- Designed relational database schemas and indexing strategies.
+- Added Redis caching for frequently accessed data.
+- Implemented automated CI/CD workflows.
+- Containerized services with Docker.
+- Optimized API and database performance.
+- Structured the codebase for maintainability and team collaboration.
+
+**Core Technologies:** `TypeScript` `Next.js` `Node.js` `PostgreSQL` `Redis` `Docker` `AWS`
+
+</details>
+
+<details>
+<summary><strong>🧠 Intelligent Recommendation Engine</strong></summary>
+
+<br/>
+
+A machine-learning recommendation system focused on personalization, ranking quality, scalable inference, and measurable user outcomes.
+
+| Metric | Engineering Profile |
+|:---|:---|
+| **Stack** | Python · Scikit-learn · PyTorch · FastAPI · PostgreSQL · Redis |
+| **Scale** | Designed for high-volume prediction and recommendation workloads |
+| **Performance** | Feature caching · batch inference · optimized model serving |
+| **Security** | Validated inputs · controlled model endpoints · protected data access |
+| **Impact** | Improved relevance and personalization through data-driven ranking |
+| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/recommendation-engine) |
+
+### Engineering Scope
+
+- Developed recommendation and ranking pipelines.
+- Engineered reusable feature-generation workflows.
+- Evaluated models using offline metrics and validation strategies.
+- Built inference APIs for application integration.
+- Added caching for frequently requested recommendations.
+- Designed model-serving boundaries for independent deployment.
+- Established monitoring for inference latency and prediction quality.
+
+**Core Technologies:** `Python` `PyTorch` `Scikit-learn` `FastAPI` `PostgreSQL` `Redis`
+
+</details>
+
+<details>
+<summary><strong>☁️ Cloud-Native Distributed Backend</strong></summary>
+
+<br/>
+
+A distributed backend architecture focused on reliability, observability, scalability, and efficient cloud-native deployment.
+
+| Metric | Engineering Profile |
+|:---|:---|
+| **Stack** | Go · Kubernetes · Docker · PostgreSQL · Redis · Kafka · AWS |
+| **Scale** | Horizontally scalable service architecture |
+| **Performance** | Concurrent processing · caching · asynchronous messaging |
+| **Security** | Least-privilege access · secret management · API controls |
+| **Impact** | Improved service resilience and deployment scalability |
+| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/cloud-native-backend) |
+
+### Engineering Scope
+
+- Designed independently deployable backend services.
+- Implemented asynchronous communication using event-driven patterns.
+- Added Kafka-based messaging workflows.
+- Containerized services using Docker.
+- Orchestrated deployments through Kubernetes.
+- Implemented Redis caching.
+- Added health checks and service observability.
+- Structured deployment workflows for repeatable releases.
+
+**Core Technologies:** `Go` `Kubernetes` `Docker` `Kafka` `Redis` `PostgreSQL` `AWS`
+
+</details>
+
+---
+
+# Experience
+
+## Senior Software Engineer — Company Name
+
+**202X – Present**
+
+Software engineer responsible for designing and delivering reliable, scalable software systems across backend services, AI-powered capabilities, cloud infrastructure, and product engineering.
+
+### Scope of Work
+
+- Architect and implement scalable backend systems.
+- Develop production-grade APIs and distributed services.
+- Design and optimize relational and NoSQL data models.
+- Integrate machine learning and generative AI capabilities into products.
+- Improve application performance, reliability, and observability.
+- Establish automated testing and CI/CD practices.
+- Collaborate with product, design, data, and engineering stakeholders.
+- Drive technical decisions from requirements through production deployment.
+- Mentor engineers and contribute to engineering standards.
+- Evaluate architectural trade-offs with scalability, security, and maintainability in mind.
+
+**Skills:**  
+`Software Architecture` `System Design` `Python` `TypeScript` `AWS` `AI/ML` `APIs` `PostgreSQL` `Docker` `Kubernetes` `CI/CD`
+
+---
+
+## Software Engineer — Company Name
+
+**202X – 202X**
+
+Worked across full-stack engineering and backend development to deliver maintainable product features and scalable technical foundations.
+
+### Scope of Work
+
+- Built backend services and REST APIs.
+- Developed responsive frontend features.
+- Designed database schemas and optimized queries.
+- Implemented authentication and authorization.
+- Improved application performance and reliability.
+- Added automated testing and deployment workflows.
+- Collaborated with cross-functional teams on product delivery.
+
+**Skills:**  
+`JavaScript` `TypeScript` `React` `Node.js` `Python` `SQL` `Git` `Docker`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---:|:---|
+| 🏆 **Engineering Excellence** | Recognized for building reliable, scalable, and maintainable software systems |
+| 🥇 **Competitive Programming** | Consistent problem-solving practice across algorithms and data structures |
+| 🤖 **AI / ML Projects** | Designed and implemented applied machine-learning and generative-AI systems |
+| 🚀 **Product Engineering** | Delivered end-to-end features from technical design through production |
+| 🌐 **Open Source** | Contributed to engineering communities and reusable developer tooling |
+| 📚 **Continuous Learning** | Consistently expanded expertise across cloud, AI, systems, and software architecture |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=111827" />
+<img src="https://img.shields.io/badge/AWS-Certified%20Developer-6366F1?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=111827" />
+
+## Oracle
+
+<img src="https://img.shields.io/badge/Oracle-Certified%20Professional-A78BFA?style=for-the-badge&logo=oracle&logoColor=white&labelColor=111827" />
+
+## NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Certified%20Course-4F46E5?style=for-the-badge&labelColor=111827" />
+
+## Cisco
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20Certification-6366F1?style=for-the-badge&logo=cisco&logoColor=white&labelColor=111827" />
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white&labelColor=111827" />
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D0620&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=10&bg_color=0D0620&title_color=A78BFA&text_color=E5E7EB" />
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D0620&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" />
+</a>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" />
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0620&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+current_focus:
+  Learning:
+    - Advanced system design
+    - Distributed systems
+    - Generative AI
+    - LLM application architecture
+    - MLOps and production AI
+
+  Building:
+    - AI-powered developer tools
+    - Scalable backend platforms
+    - Intelligent automation systems
+    - Open-source engineering projects
+
+  Exploring:
+    - Agentic AI
+    - Multimodal AI
+    - Cloud-native architectures
+    - High-performance systems
+    - Developer productivity
+
+  Open To:
+    - Senior software engineering opportunities
+    - AI/ML engineering opportunities
+    - Backend and platform engineering
+    - Product engineering
+    - Open-source collaboration
+    - Technical research and experimentation
