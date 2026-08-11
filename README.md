@@ -43,31 +43,49 @@
 
 ## 🧑‍💻 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
 
-🎓  Student @ GLA University, India
-💻  Software Developer
-🐍  Python & Java Developer
-🤖  AI / ML Enthusiast
-⚙️  Backend & API Development
-🚀  Building real-world projects
-📚  Learning → Building → Deploying → Repeating
+### Hey there! 👋
 
+I'm **Parth Agrawal**, a Software Developer and AI/ML enthusiast focused on building practical, real-world applications.
 
-I'm passionate about building **practical software that solves real problems**.
+I enjoy turning ideas into working products — from **AI-powered tools and computer vision applications to backend APIs and automation systems**.
 
-Currently exploring:
+Currently, I'm focused on improving my software engineering skills while exploring the rapidly evolving world of AI.
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 LLM-powered applications & AI agents
-* ⚡ Backend development with Python
-* 🌐 REST APIs and scalable web applications
-* 👁️ Computer Vision
-* 📊 Data Science & analytics
-* ☁️ Cloud deployment
+### 🎯 What I'm Working On
 
-> **"Don't just learn technology. Build something with it."**
+- 🤖 AI / ML applications
+- 🧠 LLM-powered applications & AI agents
+- ⚡ Backend development
+- 👁️ Computer Vision
+- 📊 Data & Machine Learning
+- ☁️ Cloud deployment
+- 🚀 Real-world software projects
 
----
+</td>
+
+<td width="40%" valign="top">
+
+### ⚡ Quick Facts
+
+text
+🎓 GLA University
+📍 India
+
+💻 Software Developer
+🐍 Python Developer
+☕ Java Developer
+
+🤖 AI / ML
+⚙️ Backend Development
+🌐 REST APIs
+
+📚 Always Learning
+🚀 Always Building
+</td> </tr> </table>
 
 # 🚀 Featured Projects
 
