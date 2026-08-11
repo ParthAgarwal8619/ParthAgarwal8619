@@ -305,7 +305,7 @@ NLP-based system for classifying and prioritizing customer support emails.
   />
 
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/output/github-snake.svg"
   />
 
