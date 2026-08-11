@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0620,35:24105C,70:4C1D95,100:6366F1&height=220&section=header&text=PARTH20AGRAWAL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Product%20Builder&descAlignY=58&descSize=18&descColor=C4B5FD" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0620,35:24105C,70:4C1D95,100:6366F1&height=220&section=header&text=PARTH AGRAWAL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Product%20Builder&descAlignY=58&descSize=18&descColor=C4B5FD" />
 </a>
 
 <a href="https://readme-typing-svg.demolab.com/">
