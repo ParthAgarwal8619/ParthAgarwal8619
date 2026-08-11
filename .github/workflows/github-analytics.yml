@@ -25,7 +25,8 @@ jobs:
           options: >-
             username=ParthAgarwal8619&
             show_icons=true&
-            theme=react&
+            theme=dark&
+            bg_color=0D1117&
             hide_border=true&
             include_all_commits=true&
             count_private=true
@@ -42,7 +43,8 @@ jobs:
           options: >-
             username=ParthAgarwal8619&
             layout=compact&
-            theme=react&
+            theme=dark&
+            bg_color=0D1117&
             hide_border=true&
             langs_count=6
           path: profile/top-langs.svg
@@ -78,4 +80,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git diff --cached --quiet || git commit -m "📊 Update GitHub Analytics"
+          git pull --rebase --autostash origin main
           git push
