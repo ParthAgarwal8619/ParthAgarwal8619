@@ -192,61 +192,46 @@ NLP-based system for classifying and prioritizing customer support emails.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</p>
+### 📚 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚡ Frameworks & Backend
-
-<p>
-<img src="https://img.shields.io/badge/Django-05122A?style=for-the-badge&logo=django&logoColor=092E20"/>
-<img src="https://img.shields.io/badge/Flask-05122A?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-05122A?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Streamlit-05122A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-<img src="https://img.shields.io/badge/Jinja-05122A?style=for-the-badge&logo=jinja&logoColor=B41717"/>
-</p>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 ### 🤖 AI / ML / Data
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-05122A?style=for-the-badge&logo=numpy&logoColor=013243"/>
-<img src="https://img.shields.io/badge/Pandas-05122A?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/Scikit--learn-05122A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/SciPy-05122A?style=for-the-badge&logo=scipy&logoColor=8CAAE6"/>
-<img src="https://img.shields.io/badge/PyTorch-05122A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Matplotlib-05122A?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-05122A?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
-<img src="https://img.shields.io/badge/Power%20BI-05122A?style=for-the-badge&logo=power-bi&logoColor=F2C811"/>
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/SQLite-05122A?style=for-the-badge&logo=sqlite&logoColor=07405E"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-05122A?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/Render-05122A?style=for-the-badge&logo=render&logoColor=46E3B7"/>
-<img src="https://img.shields.io/badge/Vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-05122A?style=for-the-badge&logo=apache-airflow&logoColor=017CEE"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-05122A?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows%20Terminal-05122A?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-</p>
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 ---
 
