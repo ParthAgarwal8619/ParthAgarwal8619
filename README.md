@@ -251,17 +251,45 @@ NLP-based system for classifying and prioritizing customer support emails.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=ParthAgarwal8619&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <!-- GitHub Stats -->
+  <a href="https://github.com/ParthAgarwal8619">
+    <img
+      width="49%"
+      src="./profile/stats.svg"
+      alt="Parth Agarwal GitHub Stats"
+    />
+  </a>
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ParthAgarwal8619&layout=compact&theme=react&hide_border=true" />
+  <!-- Top Languages -->
+  <a href="https://github.com/ParthAgarwal8619">
+    <img
+      width="49%"
+      src="./profile/top-langs.svg"
+      alt="Most Used Languages"
+    />
+  </a>
 
-<br/>
+  <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ParthAgarwal8619&theme=react&hide_border=true" />
+  <!-- Streak -->
+  <a href="https://github.com/ParthAgarwal8619">
+    <img
+      width="95%"
+      src="./profile/streak.svg"
+      alt="GitHub Streak"
+    />
+  </a>
 
-<br/>
+  <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true" />
+  <!-- Activity Graph -->
+  <a href="https://github.com/ParthAgarwal8619">
+    <img
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true&custom_title=Parth%20Agarwal%27s%20Contribution%20Graph"
+      alt="GitHub Activity Graph"
+    />
+  </a>
 
 </div>
 
