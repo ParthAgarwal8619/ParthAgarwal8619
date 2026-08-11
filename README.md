@@ -257,7 +257,7 @@ NLP-based system for classifying and prioritizing customer support emails.
 <a href="https://github.com/ParthAgarwal8619">
   <img
     width="49%"
-    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/main/profile/stats.svg"
+    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619&theme=react-dark&hide_border=true&area=true/main/profile/stats.svg"
     alt="GitHub Stats"
   />
 </a>
@@ -265,7 +265,7 @@ NLP-based system for classifying and prioritizing customer support emails.
 <a href="https://github.com/ParthAgarwal8619">
   <img
     width="49%"
-    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/main/profile/top-langs.svg"
+    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619&theme=react-dark&hide_border=true&area=true/main/profile/top-langs.svg"
     alt="Most Used Languages"
   />
 </a>
@@ -275,7 +275,7 @@ NLP-based system for classifying and prioritizing customer support emails.
 <a href="https://github.com/ParthAgarwal8619">
   <img
     width="95%"
-    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/main/profile/streak.svg"
+    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619&theme=react-dark&hide_border=true&area=true/main/profile/streak.svg"
     alt="GitHub Streak"
   />
 </a>
@@ -284,7 +284,7 @@ NLP-based system for classifying and prioritizing customer support emails.
 
 <img
   width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=dark&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true"
   alt="Contribution Graph"
 />
 
