@@ -168,10 +168,13 @@ I'm particularly interested in turning ideas into useful applications — from A
 
 📚 Always Learning
 🚀 Always Building
+
 </td> </tr> </table> <br> <div align="center">
 💭 Learn → Build → Experiment → Deploy → Improve
 </div>
+
 🚀 Featured Projects
+
 <table> <tr> <td width="50%" valign="top">
 🧠 AI Resume Analyzer
 
