@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=ParthAgarwal8619&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"
+          options: "username=parthagrawal8619&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"
           path: profile/stats.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
@@ -33,14 +33,14 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=ParthAgarwal8619&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&langs_count=6"
+          options: "username=parthagrawal8619&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&langs_count=6"
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: 🔥 Generate GitHub Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: "user=ParthAgarwal8619&theme=dark&hide_border=true&ring=58D6FF&fire=58D6FF&currStreakNum=58D6FF&sideNums=58D6FF&currStreakLabel=58D6FF&sideLabels=FFFFFF&dates=FFFFFF&disable_animations=true"
+          options: "user=parthagrawal8619&theme=dark&hide_border=true&ring=58D6FF&fire=58D6FF&currStreakNum=58D6FF&sideNums=58D6FF&currStreakLabel=58D6FF&sideLabels=FFFFFF&dates=FFFFFF&disable_animations=true"
           path: profile/streak.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
