@@ -33,9 +33,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ParthAgarwal8619&label=Profile%20Views&color=58A6FF&style=flat-square" />
-<img src="https://img.shields.io/github/followers/ParthAgarwal8619?label=Followers&style=flat-square&color=58A6FF" />
-<img src="https://img.shields.io/github/stars/ParthAgarwal8619?label=Stars&style=flat-square&color=58A6FF" />
+<img src="https://komarev.com/ghpvc/?username=parthagrawal8619&label=Profile%20Views&color=58A6FF&style=flat-square" />
+<img src="https://img.shields.io/github/followers/parthagrawal8619?label=Followers&style=flat-square&color=58A6FF" />
+<img src="https://img.shields.io/github/stars/parthagrawal8619?label=Stars&style=flat-square&color=58A6FF" />
 
 </div>
 
@@ -103,7 +103,7 @@ AI-powered resume analysis system that parses resumes and provides intelligent s
 
 **Tech:** `Python` `AI/ML`
 
-<a href="https://github.com/ParthAgarwal8619/Ai-resume-analyzer">
+<a href="https://github.com/parthagrawal8619/Ai-resume-analyzer">
 <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -117,7 +117,7 @@ Computer-vision controlled hill-climb style game using Python.
 
 **Tech:** `Python` `Computer Vision`
 
-<a href="https://github.com/ParthAgarwal8619/hillclimb-cv-game-project">
+<a href="https://github.com/parthagrawal8619/hillclimb-cv-game-project">
 <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -135,7 +135,7 @@ Personal AI agent designed to assist with productivity and everyday automation.
 
 **Tech:** `Python` `AI Agents`
 
-<a href="https://github.com/ParthAgarwal8619/lifeos-agent">
+<a href="https://github.com/parthagrawal8619/lifeos-agent">
 <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -149,7 +149,7 @@ Personal portfolio showcasing projects, skills and developer journey.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/ParthAgarwal8619/portfolio1">
+<a href="https://github.com/parthagrawal8619/portfolio1">
 <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -167,7 +167,7 @@ Handwritten digit recognition project built using PyTorch.
 
 **Tech:** `Python` `PyTorch` `Deep Learning`
 
-<a href="https://github.com/ParthAgarwal8619/pytorch-digitproject">
+<a href="https://github.com/parthagrawal8619/pytorch-digitproject">
 <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -239,28 +239,28 @@ NLP-based system for classifying and prioritizing customer support emails.
 
 <div align="center">
 
-<a href="https://github.com/ParthAgarwal8619">
+<a href="https://github.com/parthagrawal8619">
   <img
     width="49%"
-    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/main/profile/stats.svg"
+    src="https://raw.githubusercontent.com/parthagrawal8619/parthagrawal8619/main/profile/stats.svg"
     alt="GitHub Stats"
   />
 </a>
 
-<a href="https://github.com/ParthAgarwal8619">
+<a href="https://github.com/parthagrawal8619">
   <img
     width="49%"
-    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/main/profile/top-langs.svg"
+    src="https://raw.githubusercontent.com/parthagrawal8619/parthagrawal8619/main/profile/top-langs.svg"
     alt="Most Used Languages"
   />
 </a>
 
 <br><br>
 
-<a href="https://github.com/ParthAgarwal8619">
+<a href="https://github.com/parthagrawal8619">
   <img
     width="95%"
-    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/main/profile/streak.svg"
+    src="https://raw.githubusercontent.com/parthagrawal8619/parthagrawal8619/main/profile/streak.svg"
     alt="GitHub Streak"
   />
 </a>
@@ -269,7 +269,7 @@ NLP-based system for classifying and prioritizing customer support emails.
 
 <img
   width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ParthAgarwal8619&theme=react-dark&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=parthagrawal8619&theme=react-dark&hide_border=true&area=true"
   alt="Contribution Graph"
 />
 
@@ -286,17 +286,17 @@ NLP-based system for classifying and prioritizing customer support emails.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/parthagrawal8619/parthagrawal8619/output/github-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/parthagrawal8619/parthagrawal8619/output/github-snake-dark.svg"
   />
 
   <img
     width="95%"
-    src="https://raw.githubusercontent.com/ParthAgarwal8619/ParthAgarwal8619/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/parthagrawal8619/parthagrawal8619/output/github-snake-dark.svg"
     alt="GitHub Contribution Snake"
   />
 
@@ -369,7 +369,7 @@ Every project is an opportunity to understand something deeper, experiment with 
 
 **Thanks for visiting my profile! ⭐**
 
-<img src="https://komarev.com/ghpvc/?username=ParthAgarwal8619&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=parthagrawal8619&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
