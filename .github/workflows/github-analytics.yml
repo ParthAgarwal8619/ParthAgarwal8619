@@ -1,4 +1,5 @@
 name: 📊 Update GitHub Analytics
+
 on:
   schedule:
     - cron: "0 3 * * *"
@@ -17,10 +18,14 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
+      # =========================
+      # GitHub Stats
+      # =========================
       - name: 📊 Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -29,6 +34,9 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
+      # =========================
+      # Top Languages
+      # =========================
       - name: 💻 Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -37,6 +45,9 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
+      # =========================
+      # GitHub Streak
+      # =========================
       - name: 🔥 Generate GitHub Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -44,16 +55,45 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
+      # =========================
+      # Contribution Graph
+      # =========================
+      - name: 📈 Generate Contribution Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: parthagrawal8619
+          options: "theme=react-dark&hide_border=true&area=true"
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
+
+      # =========================
+      # Publish Graph
+      # =========================
+      - name: 📤 Publish Contribution Graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # =========================
+      # Commit Stats / Languages / Streak
+      # =========================
       - name: 💾 Commit updated analytics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/*.svg
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
+
           git commit -m "📊 Update GitHub Analytics"
+
           for i in 1 2 3 4 5; do
             git pull --rebase --autostash origin main && git push && break
             echo "Push failed, retrying ($i/5)..."
