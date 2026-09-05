@@ -47,17 +47,7 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.PROFILE_TOKEN }}
       # =========================
-      # Contribution Graph
-      # =========================
-      - name: 📈 Generate Contribution Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: parthagrawal8619
-          options: "theme=react-dark&hide_border=true&area=true"
-          output_path: profile/activity-graph.svg
-          token: ${{ secrets.PROFILE_TOKEN }}
-      # =========================
-      # Commit Stats / Languages / Streak / Graph
+      # Commit Stats / Languages / Streak
       # =========================
       - name: 💾 Commit updated analytics
         run: |
