@@ -267,11 +267,7 @@ NLP-based system for classifying and prioritizing customer support emails.
 
 <br><br>
 
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=parthagrawal8619&theme=react-dark&hide_border=true&area=true"
-  alt="Contribution Graph"
-/>
+<img width="95%" src="https://raw.githubusercontent.com/parthagrawal8619/parthagrawal8619/main/profile/activity-graph.svg" alt="Contribution Graph" />
 
 </div>
 
